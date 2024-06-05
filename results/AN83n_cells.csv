@@ -1,0 +1,58 @@
+area,coor_453_457,coor_393_397,coor_333_337,coor_533_537,coor_553_557,coor_593_597,coor_473_477,coor_613_617,coor_313_317,coor_693_697,coor_713_717,coor_353_357,coor_573_577,coor_413_417,coor_433_437,coor_273_277,coor_633_637,coor_493_497,coor_653_657,coor_373_377,coor_293_297,coor_673_677,coor_253_257,coor_733_737,coor_513_517
+Infralimbic area,0,0,0,174,207,191,0,128,0,0,0,0,178,0,0,0,117,0,101,0,0,33,0,0,0
+Infralimbic area layer 1,0,0,0,22,16,45,0,39,0,0,0,0,56,0,0,0,17,0,20,0,0,18,0,0,0
+Infralimbic area layer 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infralimbic area layer 2/3,0,0,0,40,44,34,0,35,0,0,0,0,31,0,0,0,25,0,26,0,0,11,0,0,0
+Infralimbic area layer 5,0,0,0,98,127,86,0,46,0,0,0,0,58,0,0,0,63,0,44,0,0,3,0,0,0
+Infralimbic area layer 6a,0,0,0,12,19,25,0,9,0,0,0,0,34,0,0,0,12,0,11,0,0,1,0,0,0
+Infralimbic area layer 6b,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prelimbic area,201,150,0,8,0,0,154,0,0,0,0,3,0,144,188,0,0,191,0,35,0,0,0,0,203
+Prelimbic area layer 1,36,40,0,0,0,0,28,0,0,0,0,1,0,44,36,0,0,28,0,17,0,0,0,0,30
+Prelimbic area layer 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prelimbic area layer 2/3,64,49,0,0,0,0,43,0,0,0,0,2,0,29,69,0,0,64,0,12,0,0,0,0,67
+Prelimbic area layer 5,72,62,0,2,0,0,54,0,0,0,0,0,0,66,69,0,0,72,0,6,0,0,0,0,90
+Prelimbic area layer 6a,29,0,0,6,0,0,29,0,0,0,0,0,0,5,14,0,0,28,0,0,0,0,0,0,16
+Prelimbic area layer 6b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Auditory areas,41,53,22,41,31,54,34,0,15,0,0,25,47,46,40,7,0,45,0,20,12,0,10,0,43
+Dorsal auditory area,5,9,11,0,0,0,2,0,9,0,0,8,0,12,8,3,0,3,0,3,7,0,4,0,6
+Dorsal auditory area layer 1,1,1,8,0,0,0,0,0,3,0,0,6,0,1,3,0,0,0,0,1,5,0,3,0,0
+Dorsal auditory area layer 2/3,3,1,1,0,0,0,0,0,5,0,0,1,0,3,0,3,0,1,0,2,1,0,1,0,0
+Dorsal auditory area layer 4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dorsal auditory area layer 5,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1
+Dorsal auditory area layer 6a,1,6,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,1,0,0,1,0,0,0,4
+Dorsal auditory area layer 6b,0,1,0,0,0,0,2,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,1
+Laterolateral anterior visual area,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laterolateral anterior visual area layer 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laterolateral anterior visual area layer 2/3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laterolateral anterior visual area layer 4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laterolateral anterior visual arealayer 5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laterolateral anterior visual area layer 6a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laterolateral anterior visual area layer 6b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Primary auditory area,19,32,8,20,3,0,14,0,2,0,0,10,0,22,20,2,0,18,0,13,4,0,1,0,11
+Primary auditory area layer 1,6,15,1,1,0,0,1,0,1,0,0,1,0,6,6,0,0,1,0,3,1,0,1,0,1
+Primary auditory area layer 2/3,10,17,5,6,0,0,8,0,1,0,0,7,0,13,10,2,0,5,0,5,3,0,0,0,2
+Primary auditory area layer 4,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+Primary auditory area layer 5,1,0,0,7,0,0,2,0,0,0,0,1,0,0,2,0,0,9,0,1,0,0,0,0,2
+Primary auditory area layer 6a,2,0,0,5,3,0,1,0,0,0,0,1,0,3,0,0,0,3,0,0,0,0,0,0,6
+Primary auditory area layer 6b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+Posterior auditory area,2,4,3,0,0,0,0,0,4,0,0,6,0,3,2,2,0,0,0,3,1,0,5,0,0
+Posterior auditory area layer 1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Posterior auditory area layer 2/3,1,1,2,0,0,0,0,0,2,0,0,5,0,1,0,2,0,0,0,1,1,0,2,0,0
+Posterior auditory area layer 4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Posterior auditory area layer 5,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0
+Posterior auditory area layer 6a,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,0
+Posterior auditory area layer 6b,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ventral auditory area,15,8,0,21,28,54,18,0,0,0,0,1,47,9,10,0,0,24,0,1,0,0,0,0,26
+Ventral auditory area layer 1,3,2,0,0,2,1,4,0,0,0,0,0,3,3,2,0,0,5,0,0,0,0,0,0,4
+Ventral auditory area layer 2/3,8,6,0,5,10,23,9,0,0,0,0,1,20,5,8,0,0,14,0,1,0,0,0,0,5
+Ventral auditory area layer 4,0,0,0,0,3,1,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0
+Ventral auditory area layer 5,1,0,0,11,8,18,2,0,0,0,0,0,11,0,0,0,0,3,0,0,0,0,0,0,7
+Ventral auditory area layer 6a,3,0,0,5,4,11,3,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,8
+Ventral auditory area layer 6b,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+Temporal association areas,15,9,7,49,48,49,20,87,4,50,0,10,54,10,12,4,88,27,120,4,4,102,3,0,35
+Temporal association areas layer 1,0,0,1,5,5,0,2,1,0,2,0,0,0,0,0,0,1,1,0,0,1,1,3,0,3
+Temporal association areas layer 2/3,2,5,3,11,12,11,6,19,1,18,0,6,9,5,5,3,32,3,34,2,3,35,0,0,6
+Temporal association areas layer 4,1,0,0,2,3,2,1,3,0,4,0,0,2,0,0,1,7,0,0,0,0,7,0,0,1
+Temporal association areas layer 5,3,1,0,24,11,10,3,21,0,16,0,1,17,1,4,0,20,9,36,1,0,25,0,0,15
+Temporal association areas layer 6a,9,2,2,5,16,25,7,39,3,10,0,2,25,3,3,0,26,13,44,0,0,34,0,0,10
+Temporal association areas layer 6b,0,1,1,2,1,1,1,4,0,0,0,1,1,1,0,0,2,1,6,1,0,1,0,0,0
